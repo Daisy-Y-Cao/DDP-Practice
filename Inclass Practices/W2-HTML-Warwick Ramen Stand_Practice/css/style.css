@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+.header {
+    background-color: #5b7e918d;
+    color: #e8d3d1;
+    text-align: left;
+    padding: 10px 0;
+    font-family: 'Papyrus', 'Lucida Handwriting';
+    font-weight: bold;
+}
+
+.content {
+    padding: 20px;
+}
+
+#ramen-menu {
+    background-color: #5b7e918d;
+    padding: 15px;
+    border-radius: 5px;
+    font-family: 'Papyrus', 'Lucida Handwriting';
+}
+
+.menu-item {
+    color: #203744;
+    font-weight: bold;
+
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 5px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.navigation {
+    text-align: right;
+}
+
+.navigation li {
+    list-style: none;
+    padding: 10px;
+    display: inline;
+    font-family: 'Papyrus', 'Lucida Handwriting';
+    transition-duration: 0.4s;
+}
+
+.navigation a:hover {
+    background-color: #ffffff;
+    color: #203744;
+}
+
+.navigation a {
+    background-color: none;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+}
+
+.openinghours {
+    font-family: 'Papyrus', 'Lucida Handwriting';
+    margin-bottom: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.openinghours ul {
+    list-style: none;
+}
