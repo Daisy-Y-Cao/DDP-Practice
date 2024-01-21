@@ -22,5 +22,7 @@
 
  	5. html table: 
   		table>tr*n>td{xxxx}*n
+
+    	6. alt + up/down: move the line up/down
     
 	
