@@ -19,4 +19,8 @@
 	4. In this example, "{:.2f}".format(sum_of_scores / 3) uses string formatting to represent the result with exactly two decimal places. The :.2f format specifier indicates that you want to format the number as a floating-point value with two decimal places.
 	
 	来自 <https://chat.openai.com/c/fea89bab-edd2-4176-ab2b-912ebc4a2aac> 
+
+ 	5. html table: 
+  		table>tr*n>td{xxxx}*n
+    
 	
