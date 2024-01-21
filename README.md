@@ -21,8 +21,13 @@
 	来自 <https://chat.openai.com/c/fea89bab-edd2-4176-ab2b-912ebc4a2aac> 
 
 5. html table: 
-  	table>tr*n>td{xxxx}*n
+  	<br> table>tr*n>td{xxxx}*n
+   	<br> th: head
+   	<br> caption
+   	
     
-6. alt + up/down: move the line up/down
+7. alt + up/down: move the line up/down
+
+8. 
     
 	
