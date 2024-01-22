@@ -24,6 +24,7 @@
   	<br> table>tr*n>td{xxxx}*n
    	<br> th: head
    	<br> caption
+   	<br> colspan & rowspan 相应的行/列删除多的那个
    	
     
 7. alt + up/down: move the line up/down
