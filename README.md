@@ -29,6 +29,6 @@
     
 7. alt + up/down: move the line up/down
 
-8. 
+8. * elemrnt/lable name . # 
     
 	
